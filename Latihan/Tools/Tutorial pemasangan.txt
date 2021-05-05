@@ -1,0 +1,9 @@
+UNTUK PENYAMBUNGAN FONT AWESOME 
+
+1. SEDIAKAN FOLDER BARU DENGAN TULISAN (CSS)
+2. COPY FILE DARI FONTAWESOMENYA KEDALAM (CSS)yaitu all.min.css
+3. DAN KOPY FOLDER (webfonts)
+4. Masukkan 2 folder tersebut kedalam yang anda inginkan 
+5. Buat di code editor seperti dibawah ini 
+  <link rel="stylesheet" href="css/all.min.css">
+  <link rel="stylesheet" href="css/style.css">
